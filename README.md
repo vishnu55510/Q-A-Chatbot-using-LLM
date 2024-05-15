@@ -65,8 +65,8 @@ To install and set up the project, follow these steps:
 ## Requirements
 
 - Python 3.6 or higher
-- [LangChain_library](https://python.langchain.com/v0.1/docs/get_started/introduction/)
-- [OpenAI API_Key](https://openai.com/index/openai-api/)
+- [LangChain library](https://python.langchain.com/v0.1/docs/get_started/introduction/)
+- [OpenAI API Key](https://openai.com/index/openai-api/)
 - [Hugging Face](https://huggingface.co/)
 
 # Use Cases
