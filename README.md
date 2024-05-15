@@ -1,4 +1,6 @@
-#Q&A Chatbot Development with Large Language Models (LLMs)
+---
+
+# Q&A Chatbot Development with Large Language Models (LLMs)
 
 This repository focuses on experimenting with the LangChain library for building powerful applications with large language models (LLMs). By leveraging state-of-the-art language models like OpenAI's GPT-3.5 Turbo (and soon GPT-4), this project showcases how to create a searchable database from a YouTube video transcript, perform similarity search queries using the FAISS library, and respond to user questions with relevant and precise information.
 
