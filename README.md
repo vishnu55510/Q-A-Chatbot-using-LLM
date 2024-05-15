@@ -11,8 +11,13 @@ LangChain is a comprehensive framework designed for developing applications powe
 The Python-specific portion of LangChain's documentation covers several main modules, each providing examples, how-to guides, reference docs, and conceptual guides. These modules include:
 
 Models: Various model types and model integrations supported by LangChain.
+
 Prompts: Prompt management, optimization, and serialization.
+
 Memory: State persistence between chain or agent calls, including a standard memory interface, memory implementations, and examples of chains and agents utilizing memory.
+
 Indexes: Combining LLMs with custom text data to enhance their capabilities.
+
 Chains: Sequences of calls, either to an LLM or a different utility, with a standard interface, integrations, and end-to-end chain examples.
+
 Agents: LLMs that make decisions about actions, observe the results, and repeat the process until completion, with a standard interface, agent selection, and end-to-end agent examples.
