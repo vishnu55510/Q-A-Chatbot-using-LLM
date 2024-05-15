@@ -65,9 +65,9 @@ To install and set up the project, follow these steps:
 ## Requirements
 
 - Python 3.6 or higher
-- [LangChain](https://langchain.org/) library
-- [OpenAI API](https://openai.com/) key
-- Hugging Face token
+- [LangChain_library](https://python.langchain.com/v0.1/docs/get_started/introduction/)
+- [OpenAI API_Key](https://openai.com/index/openai-api/)
+- [Hugging Face](https://huggingface.co/)
 
 # Use Cases
 With LangChain, developers can create various applications, such as customer support chatbots, automated content generators, data analysis tools, and intelligent search engines. These applications can help businesses streamline their workflows, reduce manual labor, and improve customer experiences.
