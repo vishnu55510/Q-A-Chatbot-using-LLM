@@ -60,6 +60,10 @@ To install and set up the project, follow these steps:
     ```bash
     pip install ipykernel
     ```
+8. This command tells Streamlit to run your application with app.py as the entry point:
+   ```bash
+   streamlit run app.py
+   ```
 
 
 ## Requirements
