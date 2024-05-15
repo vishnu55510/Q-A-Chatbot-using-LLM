@@ -2,7 +2,7 @@
 
 # Q&A Chatbot Development with Large Language Models (LLMs)
 
-[Langchain Chat Bot](https://huggingface.co/spaces/Mvishnu/Q-A_chatbot)
+[![images](https://github.com/vishnu55510/Q-A-Chatbot-using-LLM/assets/162179720/8057ff55-3677-4279-a522-5cd78336db63)](https://huggingface.co/spaces/Mvishnu/Q-A_chatbot)
 
 This repository focuses on experimenting with the LangChain library for building powerful applications with large language models (LLMs). By leveraging state-of-the-art language models like OpenAI's GPT-3.5 Turbo (and soon GPT-4)
 
